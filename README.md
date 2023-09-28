@@ -1,4 +1,4 @@
-## Olá, eu sou Fernando Alves! 🖐️
+## Olá! eu sou Fernando Alves 🖐️
   Tenho a convicção de que a tecnologia não é apenas uma ferramenta, mas uma força motriz que pode revolucionar a forma como vivemos, trabalhamos e nos conectamos. Estou ansioso para explorar novas oportunidades, colaborar com mentes brilhantes e criar soluções que impactem positivamente a sociedade. Se você está em busca de um profissional comprometido, curioso e apaixonado por tecnologia, estou pronto para contribuir e fazer a diferença. Minha jornada é apenas o começo, e mal posso esperar para ver onde a próxima etapa me levará.
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoalvess&show_icons=true&theme=dark)
