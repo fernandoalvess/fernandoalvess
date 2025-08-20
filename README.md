@@ -1,5 +1,5 @@
 ## Olá! eu sou Fernando Alves 🖐️
-  Tenho a convicção de que a tecnologia não é apenas uma ferramenta, mas uma força motriz que pode revolucionar a forma como vivemos, trabalhamos e nos conectamos. Estou ansioso para explorar novas oportunidades, colaborar com mentes brilhantes e criar soluções que impactem positivamente a sociedade. Se você está em busca de um profissional comprometido, curioso e apaixonado por tecnologia, estou pronto para contribuir e fazer a diferença. Minha jornada é apenas o começo, e mal posso esperar para ver onde a próxima etapa me levará.
+  Bacharelando em Tecnologia da Informação e estudando desenvolvimento front-end, com foco em JavaScript, React e CSS. Apaixonado por criar interfaces intuitivas e responsivas, busco uma oportunidade para aplicar meus conhecimentos, desenvolver minhas habilidades e contribuir para o crescimento da empresa. Comprometido com organização, excelência no trabalho e boa colaboração em equipe.
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoalvess&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoalvess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,5 +35,5 @@
 <a href="https://www.instagram.com/fernaando.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:fernandoumalves@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fernando-alves-550b40248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/fernaando-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
