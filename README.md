@@ -11,20 +11,10 @@ Fernando Umbilino Alves, 24 years old, originally from São Paulo and currently 
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://instagram.com/fernaando.alves">
-    <img src="https://img.shields.io/badge/Instagram-@FERNAANDO.ALVES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/fernaando-alves/">
-    <img src="https://img.shields.io/badge/LinkedIn-FERNAANDO%20ALVES-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:fernandoumalves@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FERNANDOUMALVES-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/fernandoalvess">
-    <img src="https://img.shields.io/badge/GitHub-FERNANDOALVESS-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=fernandoumalves@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernaando.alves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernaando-alves/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandoalvess/)
 
 ---
 
