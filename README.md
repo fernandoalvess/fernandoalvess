@@ -70,9 +70,9 @@ Fernando Umbilino Alves, 24 years old, originally from São Paulo and currently 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandoalvess&show_icons=true&theme=dark" alt="Fernando GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoalvess&layout=compact&theme=dark" alt="Top Langs" />
+<p align="center">
+  <img loading="lazy" height="180em" src="https://my-readme-stats-mu-gules.vercel.app/api?username=fernandoalvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1"/> 
+  <img loading="lazy" height="180em" src="https://my-readme-stats-mu-gules.vercel.app/api/top-langs/?username=fernandoalvess&layout=compact&langs_count=8&theme=tokyonight&count_private=true&v=1"/>
 </p>
 
 ---
