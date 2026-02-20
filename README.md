@@ -1,5 +1,11 @@
-## Olá! eu sou Fernando Alves 🖐️
-  Bacharelando em Tecnologia da Informação e estudando desenvolvimento front-end, com foco em JavaScript, React e CSS. Apaixonado por criar interfaces intuitivas e responsivas, busco uma oportunidade para aplicar meus conhecimentos, desenvolver minhas habilidades e contribuir para o crescimento da empresa. Comprometido com organização, excelência no trabalho e boa colaboração em equipe.
+# Hi 👋, I'm Fernando Alves
+
+**`Front-End Developer`**
+
+🚀 **Bachelor of Information Technology | Software Engineering Student**  
+🇧🇷 Brazil
+
+My name is Fernando Umbilino Alves, I am 24 years old and I am from São Paulo. I am currently studying Software Engineering at UFERSA.
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoalvess&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoalvess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
