@@ -5,7 +5,7 @@
 🚀 **Bachelor of Information Technology | Software Engineering Student**  
 🇧🇷 Brazil
 
-My name is Fernando Umbilino Alves, I am 24 years old and I am from São Paulo. I am currently studying Software Engineering at UFERSA.
+Fernando Umbilino Alves, 24 years old, originally from São Paulo and currently living in Ceará, Brazil. I am a Software Engineering student at UFERSA, focused on Front-End development and building modern, scalable, and user-centered applications. I am continuously improving my technical skills and striving for professional growth.
 
 ---
 
@@ -33,7 +33,7 @@ My name is Fernando Umbilino Alves, I am 24 years old and I am from São Paulo. 
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![htmx](https://img.shields.io/badge/htmx-%233366CC.svg?style=for-the-badge&logo=htmx&logoColor=white)
